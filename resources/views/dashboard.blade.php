@@ -28,7 +28,7 @@
                                 @csrf
                                
                                 <div class="form-group">
-                                    <label for="catalog_name">NAME</label>
+                                    <label for="catalog_name">Naw catalog</label>
                                     <input type="text" class="form-control" id="catalog_name" name="catalog_name" required>
                                 </div>
                                 @error('catalog_name')
